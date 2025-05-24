@@ -7,3 +7,9 @@ Playground for Naive Bayes classifier examples
 
 ## Weather forecast
 `WeatherForecast.ipynb` contains the implementation of the Naive Bayes classifier for continuous variables. Example: weather forecast based on `data/data_weather.csv`
+
+## Requirements
+The following libraries are needed:
+```
+pandas, numpy, matplotlib, sklearn
+```
